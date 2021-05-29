@@ -1,0 +1,17 @@
+{
+  "name": "TNH Music Mod",
+  "authors": [
+    "Frityet"
+  ],
+  "guid": "net.frityet.musicmod",
+  "version": "1.0.0",
+  "require": "0.3.0",
+  "dependencies": {},
+  "assets": 
+  {
+    "setup": 
+    {
+      "TNHMusicMod.dll": "deli:assembly"
+    }
+  }
+}
